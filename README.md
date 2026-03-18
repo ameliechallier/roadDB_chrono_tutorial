@@ -1,6 +1,6 @@
 This tutorial introduces how to deal with large chronological datasets using the roadDB package.
 #
-This tutorial is for radiocarbon dates only. However, note that it's possible to retrieve any kind of chronological data from the ROAD database by filtering by dating_method.
+This tutorial is for radiocarbon dates only. However, note that it's possible to retrieve any kind of chronological data from the ROAD database by filtering by 'dating_method'.
 
 Radiocarbon dates can be calibrated using the rcarbon package in combination with roadDB. Radiocarbon ages to be used for age modelling should remain uncalibrated.
 
